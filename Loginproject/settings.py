@@ -24,7 +24,7 @@ SECRET_KEY = 'm3s03c%cyxsk_)aac$j3v-7vs=80fad3mo0^u14wyrls$kd7_8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://algopediaapp.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['algopediaapp.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
