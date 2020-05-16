@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'm3s03c%cyxsk_)aac$j3v-7vs=80fad3mo0^u14wyrls$kd7_8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://algopediaapp.herokuapp.com/','127.0.0.1']
 
